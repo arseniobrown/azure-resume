@@ -4,7 +4,7 @@ My own azure resume, following [ACG project video.](https://youtu.be/ieYrBWmkfno
 ## First steps
 - Frontend folder contains the website.
 - main.js contains vistor counter code.
-
+Example to the main.js for updates to the counter 
 ```js
 window.addEventListener('DOMContentLoaded', (event) => {
     getVisitCount();
